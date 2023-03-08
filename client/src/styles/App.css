@@ -1,0 +1,83 @@
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited {
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+}
+
+.btn-outline-secondary {
+    border-color: #ced4da !important;
+}
+
+.link-purple {
+    color: #901e78 !important;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.divContainer {
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.rowContainer {
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 28px 28px 28px 28px;
+    -moz-border-radius: 28px 28px 28px 28px;
+    -webkit-border-radius: 28px 28px 28px 28px;
+    border: 0px none #000000;
+}
+
+.bg {
+    min-height: 100vh;
+    background: white;
+}
+
+.purple {
+    color: #901e78 !important;
+}
+
+.menuitem {
+    color: white !important;
+}
+
+.menuitem:hover {
+    color: #28a745 !important;
+}
+
+.drop:hover {
+    border-radius: 4px;
+}
+
+.drop:active {
+    background: lightgray !important;
+    border-radius: 4px;
+}
+
+.link-green {
+    color: #28a745 !important;
+}
+
+.menuitemCompany {
+    color: white !important;
+}
+
+.menuitemCompany:hover {
+    color: #901e78 !important;
+}
+
+.btn-secondary,
+.btn-secondary:active,
+.btn-secondary:visited {
+    background-color: #901e78 !important;
+    border-color: #901e78 !important;
+}
+
+.progress-bar {
+    background-color: #28a745 !important;
+}
